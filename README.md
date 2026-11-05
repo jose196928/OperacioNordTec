@@ -18,20 +18,6 @@
 - [5. Decisions tècniques](#5-decisions-tècniques)
 - [6. Reflexions tècniques](#6-reflexions-tècniques)
 
-Configuracions
-
-3.1. Lab_0373_firewall
-
-3.2. UbuntuServer_lab_0373
-
-3.3. Ubuntu_desk_lab0226
-
-Incidències i solucions
-
-Decisions tècniques
-
-Reflexions tècniques
-
 ---
 
 # 1. Estat del projecte
