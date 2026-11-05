@@ -1,13 +1,9 @@
-# Operació Nord Tec
+# **Operació Nord Tec**  <!-- omit from toc -->
 **José Luis Bernal Rodríguez**
 **ASIX1A**
 
 ---
-
-# Índex
-
-- [Operació Nord Tec](#operació-nord-tec)
-- [Índex](#índex)
+# Index <!-- omit from toc -->
 - [1. Estat del projecte](#1-estat-del-projecte)
 - [2. Arquitectura de xarxa](#2-arquitectura-de-xarxa)
 - [3. Configuracions](#3-configuracions)
@@ -28,7 +24,7 @@ En aquest apartat es descriu l'estat actual del projecte, les tasques realitzade
 - Configuració dels paràmetres de xarxa de les tres màquines.
 - Assignació de les adreces IP corresponents.
 - Realització de proves de connectivitat entre les màquines.
-
+  
 **Tasques pendents:**
 - [Afegir tasques pendents.]
 
